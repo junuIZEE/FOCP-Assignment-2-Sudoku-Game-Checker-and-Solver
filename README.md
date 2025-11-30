@@ -1,6 +1,6 @@
 Sudoku Game – Checker and Solver
 Assignment #2 – FOCP (CS-110)
-Names: Jyotish Kumar, Bilal Ghazi, Umayrah Masood Malik
+Names: Jyotish Kumar (Coding), Bilal Ghazi (Documentation), Umayrah Masood Malik (Design)
 Date: 30/11/2025
 
 > Overview
